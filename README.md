@@ -1,6 +1,6 @@
 # Steam Insider: A Machine Learning System for Aspect-Based Sentiment Analysis and Text Summarization of Video Game Reviews on Steam
 
-The system was created as part of my bachelor thesis. The thesis can be read in details [here](Thesis%-%20210913.pdf).
+The system was created as part of my bachelor thesis. The thesis can be read in details [here](Thesis%20-%2020210913.pdf).
 
 Steam Insider is an unsupervised machine learning system for aspect-based sentiment analysis, text summarization, and data
 visualization of video game reviews on Steam. 
@@ -24,7 +24,7 @@ pip install -r requirement.txt
 ```
 Do note that it's my working environment so there might be some unused packages.
 
-The entire pipeline can be found in this [file](Steam%Insider%Pipeline.ipynb).
+The entire pipeline can be found in this [file](Steam%20Insider%20Pipeline.ipynb).
 
 ## Overview
 ![System Overview](images/system_overview.jpg)
