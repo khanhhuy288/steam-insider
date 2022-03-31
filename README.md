@@ -27,7 +27,7 @@ Do note that it's my working environment so there might be some unused packages.
 The entire pipeline can be found in this [file](Steam%Insider%Pipeline.ipynb).
 
 ## Overview
-![System Overview](images/system_overview.png)
+![System Overview](images/system_overview.jpg)
 *Figure 1: System overview*
 
 The pipeline of our system in Figure 1 works as follows:
@@ -80,5 +80,5 @@ red is for negative, and yellow is for neutral.
 - **Mention Analysis page**: Figure 4 shows the Mention Analysis page of our dashboard.
 by clicking the question mark symbol in the mentions overview. It helps us inspect the
 mentions by sentiment, aspects, or keywords. 
-![Mention Analysis page](images/dashboard_2_original.JPG)
+![Mention Analysis page](images/dashboard_2_original.jpg)
 *Figure 4: Mention Analysis page of the dashboard*
