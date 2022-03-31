@@ -28,6 +28,7 @@ The entire pipeline can be found in this [file](Steam%Insider%Pipeline.ipynb).
 
 ## Overview
 ![System Overview](images/system_overview.jpg)
+
 *Figure 1: System overview*
 
 The pipeline of our system in Figure 1 works as follows:
@@ -64,6 +65,7 @@ with time, aspects, keywords, etc.
 
 ## Database Model
 ![ER Diagram](images/er_diagram.jpg)
+
 *Figure 2: ER Diagram of our system*
 
 ## Data Visualization
@@ -74,11 +76,15 @@ information about a game such as the total number of sentences (we call them men
 in this case), the total number of reviews, the sentiment among different aspects, and
 the summary which composes of the most important mentions for each aspect. Blue is for positive sentiment, 
 red is for negative, and yellow is for neutral. 
+
 ![Overview page](images/dashboard_1.jpg)
+
 *Figure 3: Overview page of the dashboard*
 
 - **Mention Analysis page**: Figure 4 shows the Mention Analysis page of our dashboard.
 by clicking the question mark symbol in the mentions overview. It helps us inspect the
 mentions by sentiment, aspects, or keywords. 
+
 ![Mention Analysis page](images/dashboard_2_original.jpg)
+
 *Figure 4: Mention Analysis page of the dashboard*
